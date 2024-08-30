@@ -6,9 +6,13 @@ layout: default
 
 <a href="https://www.linkedin.com/in/yimaj-ahmed-ba795b251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-E74C3C?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](/resume.pdf)
+
+
 I am a **Cybersecurity professional** with a Bachelor’s degree in Computer Engineering from the Georgia Institute of Technology with concentrations in **Cybersecurity** and **Cloud Computing**. Driven to enhance security through analyzing complex threats and reverse engineering malware. Proficient in penetration testing, network analysis, and risk assessment. I am actively seeking to leverage my technical acumen and passion for cybersecurity to contribute to the mission of dynamic cyber defense and threat intelligence.
 
 ---
+
 
 ## Education
 
@@ -20,6 +24,7 @@ I am a **Cybersecurity professional** with a Bachelor’s degree in Computer Eng
 - January 2020 – May 2024
 
 ---
+
 
 ## Cybersecurity Skills
 
@@ -39,6 +44,7 @@ I am a **Cybersecurity professional** with a Bachelor’s degree in Computer Eng
 | **Cloud Security**                                | Building a Security Operations Center with Microsoft Sentinel |
 
 ---
+
 
 ## Tools
 
@@ -81,12 +87,14 @@ I am a **Cybersecurity professional** with a Bachelor’s degree in Computer Eng
 
 ---
 
+
 ## Certifications
 
 ![Security+](https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white)
 ![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google_Cybersecurity_Certificate-34A853?&style=for-the-badge&logo=Google&logoColor=white)
 
 ---
+
 
 ## Experience
 
@@ -106,6 +114,7 @@ I am a **Cybersecurity professional** with a Bachelor’s degree in Computer Eng
 - Formulated defensive strategies for a client with data center operations to respond to breaches.
 
 ---
+
 
 ## Projects
 - [Reverse Engineering Malware Project](Reverse-Engineering-Malware-Project.md) - Reverse-engineered and analyzed a diverse set of malware samples to understand their behavior, attack mechanisms, and potential impact on systems.
