@@ -4,9 +4,7 @@ layout: default
 
 # Hello, I'm Yimaj Ahmed
 
-<a href="https://www.linkedin.com/in/yimaj-ahmed-ba795b251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-E74C3C?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](/resume.pdf)
+<a href="https://www.linkedin.com/in/yimaj-ahmed-ba795b251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> [![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-E74C3C?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](/resume.pdf)
 
 
 I am a **Cybersecurity professional** with a Bachelor’s degree in Computer Engineering from the Georgia Institute of Technology with concentrations in **Cybersecurity** and **Cloud Computing**. Driven to enhance security through analyzing complex threats and reverse engineering malware. Proficient in penetration testing, network analysis, and risk assessment. I am actively seeking to leverage my technical acumen and passion for cybersecurity to contribute to the mission of dynamic cyber defense and threat intelligence.
