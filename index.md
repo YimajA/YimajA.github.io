@@ -23,6 +23,32 @@ I am a **Cybersecurity professional** with hands-on experience in SOC operations
 
 ---
 
+## Experience
+
+**Mastercard | Remote | Summer 2024**  
+![Mastercard](https://img.shields.io/badge/Mastercard-EB001B?style=for-the-badge&logo=mastercard&logoColor=white)
+
+*Cyber Security Analyst Intern*  
+- Analyzed and identified business areas needing enhanced security training and implemented new procedures.
+- Assisted in identifying and reporting security threats such as phishing.
+
+**Clifford Chance Law Firm | Remote | Spring 2023**  
+![Clifford Chance](https://img.shields.io/badge/Clifford%20Chance-000000?style=for-the-badge&logo=clifford-chance&logoColor=white)
+
+*Cyber Security Intern*  
+- Assisted clients with legal issues relating to cyber breaches and notified stakeholders of data breaches.
+- Provided guidance on responding to an ICO Dawn Raid for online travel companies.
+- Formulated defensive strategies for a client with data center operations to respond to breaches.
+
+---
+
+## Projects
+- [Reverse Engineering Malware Project](Reverse-Engineering-Malware-Project.md) - Reverse-engineered and analyzed a diverse set of malware samples to understand their behavior, attack mechanisms, and potential impact on systems.
+- [Network Monitoring and Scanning Project](Network-Monitoring-and-Scanning-Project.md) - Developed and executed a network monitoring and scanning system to analyze network traffic, identify devices, and assess network security.
+- [Analyzing a DoS Attack with Wireshark](Analyzing-DOS-Attack-with-Wireshark.md) - Applied practical network security analysis skills by scrutinizing a Denial of Service (DoS) attack using Wireshark.
+- [Reverse Engineering Android Apps](Reverse-Engineering-Android-Apps.md) - Reverse-engineered Android applications to understand their code structure, behavior, and potential vulnerabilities.
+- [Building a Security Operations Center with Microsoft Sentinel](Building-SOC-with-Sentinel.md) - Deployed a SIEM using Microsoft Sentinel, configured custom alert rules, and integrated threat intelligence feeds to monitor and respond to security threats in real-time.
+
 
 ## Cybersecurity Skills
 
@@ -94,30 +120,8 @@ I am a **Cybersecurity professional** with hands-on experience in SOC operations
 ---
 
 
-## Experience
-
-**Mastercard | Remote | Summer 2024**  
-![Mastercard](https://img.shields.io/badge/Mastercard-EB001B?style=for-the-badge&logo=mastercard&logoColor=white)
-
-*Cyber Security Analyst Intern*  
-- Analyzed and identified business areas needing enhanced security training and implemented new procedures.
-- Assisted in identifying and reporting security threats such as phishing.
-
-**Clifford Chance Law Firm | Remote | Spring 2023**  
-![Clifford Chance](https://img.shields.io/badge/Clifford%20Chance-000000?style=for-the-badge&logo=clifford-chance&logoColor=white)
-
-*Cyber Security Intern*  
-- Assisted clients with legal issues relating to cyber breaches and notified stakeholders of data breaches.
-- Provided guidance on responding to an ICO Dawn Raid for online travel companies.
-- Formulated defensive strategies for a client with data center operations to respond to breaches.
-
----
 
 
-## Projects
-- [Reverse Engineering Malware Project](Reverse-Engineering-Malware-Project.md) - Reverse-engineered and analyzed a diverse set of malware samples to understand their behavior, attack mechanisms, and potential impact on systems.
-- [Network Monitoring and Scanning Project](Network-Monitoring-and-Scanning-Project.md) - Developed and executed a network monitoring and scanning system to analyze network traffic, identify devices, and assess network security.
-- [Analyzing a DoS Attack with Wireshark](Analyzing-DOS-Attack-with-Wireshark.md) - Applied practical network security analysis skills by scrutinizing a Denial of Service (DoS) attack using Wireshark.
-- [Reverse Engineering Android Apps](Reverse-Engineering-Android-Apps.md) - Reverse-engineered Android applications to understand their code structure, behavior, and potential vulnerabilities.
-- [Building a Security Operations Center with Microsoft Sentinel](Building-SOC-with-Sentinel.md) - Deployed a SIEM using Microsoft Sentinel, configured custom alert rules, and integrated threat intelligence feeds to monitor and respond to security threats in real-time.
+
+
 
