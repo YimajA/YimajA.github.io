@@ -25,8 +25,8 @@ I am a **Cybersecurity professional** with hands-on experience in SOC operations
 
 ## Experience
 
-**Fluor Marine Propulsion, LLC (FMP) - Naval Nuclear Laboratory (NNL) | West Mifflin, PA| February 2024 - Present**  
-![Mastercard](https://img.shields.io/badge/Mastercard-EB001B?style=for-the-badge&logo=mastercard&logoColor=white)
+**Fluor Marine Propulsion, LLC - Naval Nuclear Laboratory (NNL) | West Mifflin, PA| February 2024 - Present**  
+![Naval Nuclear Laboratory](https://img.shields.io/badge/Mastercard-EB001B?style=for-the-badge&logo=mastercard&logoColor=white)
 
 *Cybersecurity Analyst – Security Operations Center (Bettis Laboratory)*  
 - Monitor and triage security events using IBM QRadar and Microsoft Sentinel across classified and unclassified networks.
