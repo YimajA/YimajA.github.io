@@ -22,7 +22,6 @@ layout: default
 ---
 
 ## Experience
-
 **Fluor Marine Propulsion, LLC - Naval Nuclear Laboratory (NNL)** | **West Mifflin, PA** | **February 2024 – Present** 
 
 *Cybersecurity Analyst – Security Operations Center (Bettis Laboratory)*  
