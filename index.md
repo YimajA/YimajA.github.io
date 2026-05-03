@@ -6,11 +6,9 @@ layout: default
 
 <a href="https://www.linkedin.com/in/yimaj-ahmed-ba795b251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> [![Resume](https://img.shields.io/badge/Download%20Resume-PDF-E74C3C?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](/Resume_AhmedYimaj.pdf)
 
-
-I am a **Cybersecurity professional** with hands-on experience in SOC operations, threat hunting, and incident response within a U.S. Department of Energy high-security environment. Graduate from the Georgia Institute of Technology with a Bachelor’s degree in Computer Engineering with concentrations in **Cybersecurity** and **Cloud Computing**. Skilled in SIEM monitoring, detection engineering, digital forensics, and adversary TTP analysis. Passionate about reverse engineering malware and developing proactive defenses to harden systems and protect critical data. Experienced in both team-driven security operations and individual investigations within highly regulated environments. Eager to continue contributing to mission-driven organizations protecting assets in an evolving threat landscape.
+**Active DOE Q Clearance holder** with 2+ years of hands-on SOC experience in a classified U.S. Department of Energy environment. Georgia Tech Computer Engineering graduate with a Cybersecurity concentration, experienced in SIEM operations (IBM QRadar, Microsoft Sentinel), detection engineering, incident response, and malware reverse engineering. Seeking Cybersecurity Analyst, SOC Analyst, Malware Analysis, or Incident Response roles in the Atlanta metro area.
 
 ---
-
 
 ## Education
 
@@ -25,21 +23,24 @@ I am a **Cybersecurity professional** with hands-on experience in SOC operations
 
 ## Experience
 
-**Fluor Marine Propulsion, LLC - Naval Nuclear Laboratory (NNL) | West Mifflin, PA| February 2024 - Present**  
+**Fluor Marine Propulsion, LLC - Naval Nuclear Laboratory (NNL) | West Mifflin, PA | February 2024 – Present**  
 
 *Cybersecurity Analyst – Security Operations Center (Bettis Laboratory)*  
-- Monitor and triage security events using IBM QRadar and Microsoft Sentinel across classified and unclassified networks.
-- Investigate and respond to incidents involving data loss, unauthorized access, malware, and forensic analysis.
-- Conduct proactive threat hunting and intelligence analysis to identify IOCs and adversary TTPs aligned with MITRE ATT&CK.
-- Develop and tune SIEM rules and alerting logic to reduce false positives and improve detection accuracy.
-- Automate routine SOC tasks using PowerShell and Power Automate to enhance operational efficiency.
+*A U.S. Department of Energy contractor supporting the Naval Nuclear Propulsion Program (NNPP) in a high-security environment.*
+
+- Triaged and resolved an average of 50+ security incidents daily across 11,000+ endpoints in classified (**IBM QRadar**) and unclassified (**Microsoft Sentinel / Defender XDR**) environments, improving detection accuracy and response efficiency.
+- Led operational management of **Trellix (FireEye) File Protect**, securing cross-domain file transfers between classified and unclassified networks by detecting and quarantining potentially malicious files.
+- Analyzed and supported incident response investigations involving malware infections, unauthorized access, data exfiltration, and insider threats, adhering to digital forensics and chain of custody procedures; administered and tuned **Proofpoint** DLP policies to detect and prevent data loss across email and endpoint channels.
+- Conducted proactive threat hunting using the **MITRE ATT&CK Framework**, identifying adversary TTPs and translating threat intelligence feeds into actionable detections and structured hunt queries.
+- Engineered and tuned SIEM and EDR detection rules in **Microsoft Sentinel** and **Microsoft Defender XDR**, reducing false positives and improving alert fidelity across endpoint and network telemetry.
+- Automated SOC workflows using **PowerShell** and **Power Automate**, increasing operational efficiency and reducing manual analyst workload in alert triage and response processes.
 
 **Mastercard | Remote | Summer 2024**  
 ![Mastercard](https://img.shields.io/badge/Mastercard-EB001B?style=for-the-badge&logo=mastercard&logoColor=white)
 
 *Cyber Security Analyst Intern*  
-- Analyzed and identified business areas needing enhanced security training and implemented new procedures.
-- Assisted in identifying and reporting security threats such as phishing.
+- Analyzed business areas requiring enhanced security training and implemented procedural improvements, contributing to a 20% reduction in incident response time.
+- Assisted in identifying and reporting security threats including phishing campaigns and social engineering attempts.
 
 **Clifford Chance Law Firm | Remote | Spring 2023**  
 ![Clifford Chance](https://img.shields.io/badge/Clifford%20Chance-000000?style=for-the-badge&logo=clifford-chance&logoColor=white)
@@ -52,7 +53,7 @@ I am a **Cybersecurity professional** with hands-on experience in SOC operations
 ---
 
 ## Projects
-- [Reverse Engineering Malware Project](Reverse-Engineering-Malware-Project.md) - Reverse-engineered and analyzed a diverse set of malware samples to understand their behavior, attack mechanisms, and potential impact on systems.
+- [Reverse Engineering Malware Project](Reverse-Engineering-Malware-Project.md) - Applied static and dynamic analysis techniques to dissect 5 real-world malware families across boot sector, network worm, and trojan categories using IDA Pro, OllyDbg, Wireshark, and ImHex.
 - [Network Monitoring and Scanning Project](Network-Monitoring-and-Scanning-Project.md) - Developed and executed a network monitoring and scanning system to analyze network traffic, identify devices, and assess network security.
 - [Analyzing a DoS Attack with Wireshark](Analyzing-DOS-Attack-with-Wireshark.md) - Applied practical network security analysis skills by scrutinizing a Denial of Service (DoS) attack using Wireshark.
 - [Reverse Engineering Android Apps](Reverse-Engineering-Android-Apps.md) - Reverse-engineered Android applications to understand their code structure, behavior, and potential vulnerabilities.
@@ -63,27 +64,36 @@ I am a **Cybersecurity professional** with hands-on experience in SOC operations
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| **Reverse Engineering Malware**                   | Reverse Engineering Malware Project |
-| **Reverse Engineering Android Apps**              | Trellix Android CTFs |
-| **Network Traffic Monitoring and Analysis**       | Network Monitoring and Scanning Project |
-| **Penetration Testing**                           | Analyzing a DoS Attack with Wireshark |
-| **Vulnerability Scanning**                        | Network Monitoring and Scanning Project |
-| **Incident Response**                             | Experience at Mastercard |
-| **Risk Management**                               | Experience at Clifford Chance Law Firm |
-| **Security Information and Event Management (SIEM) Tools** | Experience at Mastercard |
-| **Digital Forensics**                             | Reverse Engineering Malware Project |
-| **Threat Modeling**                               | Experience at Clifford Chance Law Firm |
-| **Firewall Configuration and Management**         | Network Monitoring and Scanning Project |
-| **Cloud Security**                                | Building a Security Operations Center with Microsoft Sentinel |
+| **SIEM Operations (IBM QRadar, Microsoft Sentinel)**  | NNL SOC Experience |
+| **Endpoint Detection & Response (EDR)**       | NNL SOC Experience |
+| **Incident Response & Digital Forensics**     | NNL SOC Experience |
+| **Detection Engineering & Alert Tuning**      | NNL SOC Experience |
+| **Threat Hunting (MITRE ATT&CK)**             | NNL SOC Experience |
+| **Data Loss Prevention (DLP)**                | NNL SOC Experience |
+| **Reverse Engineering Malware**               | Reverse Engineering Malware Project |
+| **Reverse Engineering Android Apps**          | Trellix Android CTFs |
+| **Network Traffic Monitoring and Analysis**   | Network Monitoring and Scanning Project |
+| **Vulnerability Scanning**                    | Network Monitoring and Scanning Project |
+| **Cloud Security / SIEM Deployment**          | Building a Security Operations Center with Microsoft Sentinel |
 
 ---
 
 
 ## Tools
 
+### SIEM & Security Operations
+![IBM QRadar](https://img.shields.io/badge/-IBM_QRadar-052FAD?&style=for-the-badge&logo=IBM&logoColor=white)
+![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white)
+![Microsoft Defender XDR](https://img.shields.io/badge/-Microsoft_Defender_XDR-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white)
+![Trellix](https://img.shields.io/badge/-Trellix_(FireEye)-EF3B2D?&style=for-the-badge&logoColor=white)
+![Proofpoint](https://img.shields.io/badge/-Proofpoint-0033A0?&style=for-the-badge&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/-ServiceNow-00C895?&style=for-the-badge&logo=ServiceNow&logoColor=white)
+
 ### Reverse Engineering
 ![IDA Pro](https://img.shields.io/badge/-IDA_Pro-333333?&style=for-the-badge&logo=IDAPro&logoColor=white)
 ![OllyDBG](https://img.shields.io/badge/-OllyDBG-4B275F?&style=for-the-badge&logoColor=white)
+![Ghidra](https://img.shields.io/badge/-Ghidra-FF0000?&style=for-the-badge&logoColor=white)
+![ImHex](https://img.shields.io/badge/-ImHex-333333?&style=for-the-badge&logoColor=white)
 ![JADX](https://img.shields.io/badge/-JADX-3DDC84?&style=for-the-badge&logo=Android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?&style=for-the-badge&logo=AndroidStudio&logoColor=white)
 
@@ -93,28 +103,23 @@ I am a **Cybersecurity professional** with hands-on experience in SOC operations
 ![Suricata](https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white)
 
 ### Endpoint
-![CrowdStrike](https://img.shields.io/badge/-CrowdStrike-EF3B2D?&style=for-the-badge&logo=CrowdStrike&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-003C6C?&style=for-the-badge&logo=Metasploit&logoColor=white)
 ![VMware](https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white)
-
-### SIEM
-![Splunk](https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white)
-![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white)
+![Metasploit](https://img.shields.io/badge/-Metasploit-003C6C?&style=for-the-badge&logo=Metasploit&logoColor=white)
 
 ### Web Security
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF7A00?&style=for-the-badge&logo=BurpSuite&logoColor=white)
 
-### Programming
+### Programming & Scripting
+![KQL](https://img.shields.io/badge/-KQL-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-FFD43B?&style=for-the-badge&logo=Python&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-00599C?&style=for-the-badge&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Assembly](https://img.shields.io/badge/-Assembly-007ACC?&style=for-the-badge&logoColor=white)
-![Verilog](https://img.shields.io/badge/-Verilog-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white)
-![VHDL](https://img.shields.io/badge/-VHDL-4B275F?&style=for-the-badge&logoColor=white)
 
-### Cloud Computing
+### Cloud
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=AmazonAWS&logoColor=white)
 
@@ -127,7 +132,6 @@ I am a **Cybersecurity professional** with hands-on experience in SOC operations
 ![Google Cybersecurity Certificate](https://img.shields.io/badge/-Google_Cybersecurity_Certificate-34A853?&style=for-the-badge&logo=Google&logoColor=white)
 
 ---
-
 
 
 
